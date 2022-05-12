@@ -1,0 +1,45 @@
+h1{
+    color: white;
+    font-family: cursive;
+}
+
+p{
+    color: white;
+    font-family: cursive;
+}
+
+strong{
+    color: white
+}
+#carouselExampleFade{
+    margin: 40px;
+    margin-left: 30% ;
+    margin-right: 30%;
+}
+
+#todo{
+    background-color: black;
+}
+
+#onee{
+    background-color: black;
+}
+
+
+
+h2{
+    text-align: center;
+}
+
+#p2{
+    color: black;
+}
+
+.partedeabajo{
+    margin-top: 85px;
+    background-color: black;
+}
+
+
+
+

@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-family: Arial;
+    margin: 200px;
+    
+}
+body{
+    background-image: url(./cos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#dou{
+
+    background-color: antiquewhite;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 30%;
+}
