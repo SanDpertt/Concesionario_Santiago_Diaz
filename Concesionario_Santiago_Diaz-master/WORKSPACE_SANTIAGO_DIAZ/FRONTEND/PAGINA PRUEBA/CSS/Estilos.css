@@ -1,0 +1,45 @@
+body{
+    margin-right: 12px;
+}
+
+#Navegacion{
+    background-color: black;
+}
+
+strong{
+    color: green;
+}
+
+#carouselExampleFade{
+    margin: 70px;
+    margin-left: 20% ;
+    margin-right: 20%;
+}
+
+#Navegacion2{
+    background-color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+#p2{
+    color: black;
+}
+
+.Piedepagina{
+    color: white;
+    font-family: cursive;
+    margin-top: 85px;
+    background-color: black;
+}
+
+#Corvettes{
+    margin: 80px;
+   
+}
+
+
+
+
